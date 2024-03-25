@@ -12,16 +12,12 @@
 			]
 		},
 		{
-			"Name": "FSR2",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
+			"Name": "Cargo",
+			"Enabled": true
 		},
 		{
-			"Name": "VisualStudioTools",
+			"Name": "FSR3",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2",
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
