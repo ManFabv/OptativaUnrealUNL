@@ -12,8 +12,11 @@
 			]
 		},
 		{
-			"Name": "Cargo",
-			"Enabled": true
+			"Name": "FSR3",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		},
 		{
 			"Name": "VisualStudioTools",
